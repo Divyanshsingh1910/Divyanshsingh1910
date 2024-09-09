@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Divyansh!
 
-A passionate and driven **Computer Science** undergraduate at **IIT Kanpur**, with a keen interest in **Artificial Intelligence** and a growing fascination with **performance optimization (GPU + CPU)**.
+A exploring computer science undergraduate at IIT Kanpur, with a keen interest in **Artificial Intelligence**(generally) and a growing fascination with **performance optimization (GPU + CPU)**. Additionally, I am passionate about creating open-source tools/softwares which can be of some genuine use for atleast one person.
 
 ### 🌱  I'm currently exploring:
 ```
@@ -21,10 +21,11 @@ Projects comming soon...
 * **LinkedIn:** [in/divyanshsingh1910](https://www.linkedin.com/in/divyanshsingh1910)
 * **Email:** [divyanshsingh1910@gmail.com](mailto:divyanshsingh1910@gmail.com) 
 
+<!--
 ### ⚡ Fun fact:
 
 I love exploring new AI & system technologies and experimenting with different programming languages!
-
+-->
 
 <br>
 
