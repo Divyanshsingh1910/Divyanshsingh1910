@@ -33,10 +33,10 @@ I love exploring new AI & system technologies and experimenting with different p
 
 <p align="center">
   <a href="https://github.com/Divyanshsingh1910?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api?username=Divyanshsingh1910&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_border=true" alt="Divyanshsingh1910's GitHub stats" width="49%" height="165" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Divyanshsingh1910&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_border=true" alt="Divyanshsingh1910's GitHub stats" width="40%" height="140" />
   </a>
   <a href="https://github.com/Divyanshsingh1910?tab=repositories&sort=stargazers">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshsingh1910&layout=compact&theme=dark&langs_count=8&hide_border=true" alt="Divyanshsingh1910's Top Languages" width="49%" height="185" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshsingh1910&layout=compact&theme=dark&langs_count=10&hide_border=true" alt="Divyanshsingh1910's Top Languages" width="59%" height="195" />
   </a>
 </p>
 
