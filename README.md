@@ -15,6 +15,7 @@ Projects comming soon...
 * **[sankalak-python-compiler](https://github.com/Divyanshsingh1910/sankalak-python-compiler):** A C-type compiler for Python, running on x86 assembly.
 * **[IITK-CSE-Sem5-2023](https://github.com/Divyanshsingh1910/IITK-CSE-Sem5-2023):** Course materials and resources for my 5th semester courses. -->
 
+<!--
 ### 📫 How to reach me:
 
 <div align="center">
@@ -27,7 +28,6 @@ Projects comming soon...
 
 </div>
 
-<!--
 ### ⚡ Fun fact:
 
 I love exploring new AI & system technologies and experimenting with different programming languages!
