@@ -41,7 +41,7 @@ I love exploring new AI & system technologies and experimenting with different p
 </p>
 <p align="center">
   <a href="https://github.com/Divyanshsingh1910?tab=repositories&sort=stargazers">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshsingh1910&layout=compact&theme=dark&langs_count=8&hide_border=true" alt="Divyanshsingh1910's Top Languages" width="100%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshsingh1910&layout=compact&theme=dark&langs_count=8&hide_border=true" alt="Divyanshsingh1910's Top Languages" width="50%" />
   </a>
 </p>
 
