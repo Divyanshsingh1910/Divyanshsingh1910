@@ -27,23 +27,24 @@ Projects comming soon...
 I love exploring new AI & system technologies and experimenting with different programming languages!
 -->
 
-<br>
 
+
+<!--   
 ---
-
+<br>
 <p align="center">
-<!--   <a href="https://github.com/Divyanshsingh1910?tab=repositories">
+    <a href="https://github.com/Divyanshsingh1910?tab=repositories">
     <img src="https://github-readme-stats.vercel.app/api?username=Divyanshsingh1910&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_border=true" alt="Divyanshsingh1910's GitHub stats" width="40%" height="140" />
   </a> -->
-  <a href="https://github.com/Divyanshsingh1910">
+<!--   <a href="https://github.com/Divyanshsingh1910">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Divyanshsingh1910&theme=dark&hide_border=true" alt="Divyanshsingh1910's GitHub streak" width="100%" height="195" /> 
   </a>
-</p>
-<p align="center">
+</p> -->
+<!-- <p align="center">
   <a href="https://github.com/Divyanshsingh1910?tab=repositories&sort=stargazers">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshsingh1910&layout=compact&theme=dark&langs_count=8&hide_border=true" alt="Divyanshsingh1910's Top Languages" width="50%" />
   </a>
-</p>
+</p> -->
 
  
 
