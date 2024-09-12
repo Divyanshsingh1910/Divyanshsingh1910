@@ -17,9 +17,11 @@ Projects comming soon...
 
 ### 📫 How to reach me:
 
-* **Twitter(X)** [@_divyansh1910](https://x.com/_divyansh1910)
-* **LinkedIn:** [in/divyanshsingh1910](https://www.linkedin.com/in/divyanshsingh1910)
-* **Email:** [divyanshsingh1910@gmail.com](mailto:divyanshsingh1910@gmail.com) 
+| Platform | Handle |
+|:---------|:-------|
+| **Twitter(X)** | [x/_divyansh1910](https://x.com/_divyansh1910) |
+| **LinkedIn** | [in/divyanshsingh1910](https://www.linkedin.com/in/divyanshsingh1910) |
+| **Email** | [divyanshsingh1910@gmail.com](mailto:divyanshsingh1910@gmail.com) |
 
 <!--
 ### ⚡ Fun fact:
